@@ -1,0 +1,17 @@
+# Bytecode cache files
+*.pyc
+__pycache__/
+
+# Virtual environment directories
+venv/
+.venv/
+
+# IDE-specific settings or configuration files
+.vscode/
+.idea/
+
+# Dependency lock files (if using pipenv)
+Pipfile.lock
+
+# Other common Python project ignores
+*.log
